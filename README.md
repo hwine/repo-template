@@ -1,6 +1,6 @@
-# work-template-python
+# repo-template
 
-template for work based Python projects
+template for repositories -- focussed on Mozilla
 
 ## Notes
 
